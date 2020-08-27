@@ -1,0 +1,23 @@
+<?php
+return [
+	'welcome' => 'Chào mừng bạn đến với Website!',
+	'login' => 'Đăng nhập',
+	'logout' => 'Đăng xuất',
+	'register' => 'Đăng kí',
+	'dashboard' => 'Bảng điều khiển',
+	'name' => 'Tên',
+	'confirmpassword' => 'Xác thực mật khẩu',
+	'email' => 'Địa chỉ email',
+	'password' => 'Mật khẩu',
+	'remember' => 'Nhớ đăng nhập',
+	'loggined' => 'Bạn đã đăng nhập',
+	'forgotpassword' => 'Quên mật khẩu ?',
+	'verifyemail' => 'Xác minh địa chỉ email của bạn',
+	'resetpassword' => 'Đặt lại mật khẩu',
+	'sendpasswordsesetlink' => 'Gửi liên kết đặt lại mật khẩu',
+	'verifyemaillink' => 'Một liên kết xác minh mới đã được gửi đến địa chỉ email của bạn.',
+	'beforeproceeding' => 'Trước khi tiếp tục, vui lòng kiểm tra email của bạn để biết liên kết xác minh.',
+	'receivetheemail' => 'Nếu bạn không nhận được email',
+	'requestanother' => 'Bấm vào đây để gởi yêu cầu khác',
+	'confirmyourpasswordbeforecontinue' => 'Vui lòng xác nhận mật khẩu của bạn trước khi tiếp tục.',
+];

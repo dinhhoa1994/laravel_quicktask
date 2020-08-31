@@ -20,4 +20,9 @@ return [
 	'receivetheemail' => 'Nếu bạn không nhận được email',
 	'requestanother' => 'Bấm vào đây để gởi yêu cầu khác',
 	'confirmyourpasswordbeforecontinue' => 'Vui lòng xác nhận mật khẩu của bạn trước khi tiếp tục.',
+	'task' => 'Nhiệm vụ',
+	'addtask' => 'Thêm nhiệm vụ',
+	'currenttask' => 'Nhiệm vụ hiện tại',
+	'delete' => 'Xóa',
+	'error' => 'Rất tiếc! Đã xảy ra lỗi!',
 ];

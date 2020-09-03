@@ -20,4 +20,9 @@ return [
 	'receivetheemail' => 'If you did not receive the email',
 	'requestanother' => 'Click here to request another',
 	'confirmyourpasswordbeforecontinue' => 'Please confirm your password before continuing.',
+	'task' => 'Task',
+	'addtask' => 'Add Task',
+	'currenttask' => 'Current Tasks',
+	'delete' => 'Delete',
+	'error' => 'Whoops! Something went wrong!',
 ];
